@@ -2,7 +2,7 @@
 # NAME: cs223_prog_exercise_2.py
 
 """
-AUTHOR: <your name>
+AUTHOR: <Rucha Deo>
 
   ============== VARIABLE, FUNCTION, etc. NAMING CONVENTIONS ==================
 <ALL CAPITOL LETTERS>:  Indicates a symbol defined by a
@@ -11,20 +11,6 @@ AUTHOR: <your name>
    <Capitalized Word>:  Indicates a user defined global var, fun, or typedef.
 
    <all small letters>:  A variable or built in functions.
-
-
-========================== MODIFICATION HISTORY ==============================
-The format for each modification entry is:
-
-MM/DD/YY:
-    MOD:     <a description of what was done>
-    AUTHOR:  <who made the mod>
-    COMMENT: <any special notes to make about the mod (e.g., what other
-              modules/code depends on the mod) >
-
-    Each entry is separated by the following line:
-
-====================== END OF MODIFICATION HISTORY ============================
 """
 
 # IMPORTS
