@@ -1,0 +1,12 @@
+human  36% 60% 
+house mouse  42% 66%
+Norway rat 51% 58%
+dog 17% 45%
+chimpanzee 35% 45%
+
+
+
+
+
+
+
