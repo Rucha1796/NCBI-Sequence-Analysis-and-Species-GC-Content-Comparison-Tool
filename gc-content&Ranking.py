@@ -136,18 +136,5 @@ def main():
     return
 
 
-
-
-
-
-
-
-
-
 #####################################################################################
-if __name__ == "__main__":
-    main()
-else:
-    print("cs223_prog_assign_2.py : Is intended to be executed and not imported.")
-
 
