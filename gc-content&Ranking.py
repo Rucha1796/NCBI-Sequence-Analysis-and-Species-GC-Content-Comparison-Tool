@@ -1,14 +1,12 @@
-# -*- coding: utf-8 -*-
-# NAME: cs223_prog_exercise_2.py
 
 """
 AUTHOR: <Rucha Deo>
 
   ============== VARIABLE, FUNCTION, etc. NAMING CONVENTIONS ==================
 <ALL CAPITOL LETTERS>:  Indicates a symbol defined by a
-        #define statement or a Macro.
+        #define a statement or a Macro.
 
-   <Capitalized Word>:  Indicates a user defined global var, fun, or typedef.
+   <Capitalized Word>:  Indicates a user-defined global var, fun, or typedef.
 
    <all small letters>:  A variable or built in functions.
 """
