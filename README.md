@@ -1,6 +1,6 @@
 This script is designed to fetch genetic sequence data from NCBI's databases using accession numbers, calculate the GC content of these sequences, and then compare this content to a predefined set of species to find which species’ GC content range is closest to each sequence. This can be useful in bioinformatics for tasks like species identification or studying genetic similarity.
 
-This Python script, using the Biopython library and Entrez (a database query system from NCBI), performs several tasks to fetch, analyze, and compare genetic data from various organisms. Here's a breakdown of its functionality:
+Using the Biopython library and Entrez (a database query system from NCBI), the script performs several tasks to fetch, analyze, and compare genetic data from various organisms. Here's a breakdown of its functionality:
 
 Imports and Global Variables: It starts with importing necessary modules and defining global variables. The script utilizes Biopython's SeqIO and Entrez modules, and xmltodict for processing XML data.
 
